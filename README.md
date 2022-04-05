@@ -2,6 +2,8 @@
 
 Andre Jonas da Silva
 
+Bianca Alcantara de Oliveira Menegussi
+
 Daniel Miguel Honorio de Souza
 
 Gabriel da Silva Bonavoluntá
