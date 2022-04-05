@@ -12,6 +12,8 @@ Gabriel da Silva Bonavoluntá
 
 Iago Guernieri de Araújo
 
+James Yuji Kinoshita
+
 Lucas Ribeiro da Cruz
 
 Lucas Venezian Povoa
