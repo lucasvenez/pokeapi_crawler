@@ -1,4 +1,3 @@
-import requests
 from numpy import random
 from Pokemon import Pokemon
 
