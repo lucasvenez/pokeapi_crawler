@@ -1,3 +1,6 @@
 # Collaborators
 
-Lucas Venezian 
+Lucas Venezian Povoas
+
+James Yuji Kinoshita 
+
