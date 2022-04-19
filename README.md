@@ -1,4 +1,5 @@
 # Collaborators
 
-Lucas Venezian Povoa \n
+Lucas Venezian Povoa 
+
 Bruno Souza Dos Santos 
