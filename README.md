@@ -1,4 +1,9 @@
 # Collaborators
 
 Lucas Venezian Povoa
-Walter Alcantara
+
+Victor Hugo Nogueira Pereira
+
+Daniel Miguel
+
+Gabriel Bonavoluntá
